@@ -1,25 +1,23 @@
 <div align="center">
--` ☾ welcome to my space , `-
-  
-*｡꙳ ⋆｡˚☽˚｡⋆*
 
-★ aspiring python developer | learning by doing ★
+### Hi, I'm Adem
 
----
+Computer Science student & aspiring software/backend developer  
+Learning by building, breaking things, and fixing them
 
-### ⋆.˚ About Me ˚.⋆
+#### About Me
+* Computer Science student focused on **Python**, **SQL**, and **web development**.
+* Building practical projects and strengthening core programming fundamentals through coursework and hands-on coding.
+* Big believer in steady, consistent progress over cramming.
 
-*   **Introverted dev** currently sharpening my skills and grinding through coursework.
-*   Focused on **Python** and building my first real-world projects.
-*   Taking it one line of code at a time to build a better future.
+#### What I'm Working On
+* **Languages & Tools:** Python, SQL, HTML/CSS, Flask, Git/Linux
+* **Projects:** Developing web applications and portfolio projects while sharpening problem-solving skills
+* **Focus:** Clean, readable code, database fundamentals, and building real software
+</div>
 
-### ☾ current focus ☾
-
-*   **Coding:** Sharpening Python fundamentals & crushing my upcoming exams.
-*   **Projects:** Building a foundation for my first portfolio.
-*   **Motivation:** Turning "lazy" habits into daily discipline.
-
-### ⟡ reach me ⟡
+<div align="center">
+###  reach me 
 [**LinkedIn**](www.linkedin.com/in/ademgallopeni) | **Discord:** [@ademflow_](https://discord.com/users/487705546330472448)
 *｡꙳ ⋆｡˚☽˚｡⋆*
 
